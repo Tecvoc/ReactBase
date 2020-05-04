@@ -1,0 +1,6 @@
+*.sw[poa]
+*.DS_Store
+node_modules/
+dist/
+*.idea
+package-lock.json
